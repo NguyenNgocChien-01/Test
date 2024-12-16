@@ -14,3 +14,7 @@
 
 - git checkout -b (tên nhánh): tạo nhánh
 - git branch: xem nhánh
+- git merge (tên nhánh): gộp
+- git branch -d (tên nhánh): xóa nhánh.
+
+#
