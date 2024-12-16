@@ -17,4 +17,8 @@
 - git merge (tên nhánh): gộp
 - git branch -d (tên nhánh): xóa nhánh.
 
-#
+# up lên github
+- git push (link) (tên nhánh)
+
+# lấy từ git về máy
+- git clone (link)
